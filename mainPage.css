@@ -1,0 +1,40 @@
+.kotak{
+  /*border: 3px solid #000;*/
+  width: 900px;
+  height: auto;
+  margin: 5% auto;
+}
+
+img{
+  width: 200px;
+  height: auto;
+  margin: auto;
+  background: #846f5f;
+  display: inline-block;
+}
+body{
+  background-image: url("asset/background/background.jpg");
+  background-size: cover;
+}
+.wood-img{
+  background: none;
+  position: absolute;
+  float: right;
+  top: 0px;
+  right: 30px;
+}
+.detail{
+  color: #fff;
+  position: absolute;
+  float: right;
+  top: 75px;
+  right: 50px;
+  z-index: 1;
+}
+h5{
+  margin-bottom: -25px;
+}
+p{
+  margin-bottom: -5px;
+
+}
